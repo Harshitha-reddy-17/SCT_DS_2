@@ -1,6 +1,7 @@
 # SCT_DS_2
 # 🚢 Titanic Dataset – Data Cleaning & EDA
 Dataset: Titanic (Kaggle)
+
 Task: Perform data cleaning and exploratory data analysis (EDA) to explore variable relationships and identify patterns.
 
 # 📈 Visualizations & Analysis
